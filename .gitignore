@@ -47,3 +47,5 @@ app.*.map.json
 /macos/
 /linux/
 /windows/
+
+lib/utils/key.dart
